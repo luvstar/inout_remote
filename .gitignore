@@ -1,0 +1,27 @@
+# --- 빌드 결과물 (Build Outputs) ---
+Debug/
+Release/
+bin/
+obj/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+
+# --- IDE 설정 및 로컬 파일 (IDE Settings & Local Files) ---
+#.settings/
+.launches/
+*.launch
+.gdbinit
+
+# --- STM32CubeMX 생성 관련 (CubeMX Generated) ---
+# MX가 생성하는 백업 파일이나 로그
+.mxproject
+*.log
+
+# --- 운영체제 임시 파일 (OS Generated) ---
+.DS_Store
+Thumbs.db
