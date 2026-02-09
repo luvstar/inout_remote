@@ -10,6 +10,7 @@ obj/
 *.list
 *.o
 *.d
+*.json
 
 # --- IDE 설정 및 로컬 파일 (IDE Settings & Local Files) ---
 #.settings/
